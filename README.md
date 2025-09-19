@@ -1,5 +1,33 @@
+# Student Management App
+
+A robust and modern mobile application built using **Flutter** and **Firebase**. Designed to simplify student, teacher, and admin workflows in educational institutions by enabling real-time tracking, attendance monitoring, assignment progress, and more with role-based access.
 
 ---
+
+## 🔍 Project Highlights
+
+- Role-based access control: **Admin**, **Teacher**, and **Student/Parent** modules  
+- Real-time attendance tracking with updates for teachers and view for parents  
+- Teachers can post assignments, collect submissions, and monitor academic progress  
+- Cross-platform UI built with **Flutter** for mobile (iOS & Android)  
+- Cloud backend using **Firebase** (Auth, Firestore, Storage) for secure data, authentication, file uploads, etc.  
+- Local notifications to remind users about assignments and updates  
+
+---
+
+## 🛠 Tech Stack
+
+| Component           | Technology                 |
+|---------------------|----------------------------|
+| Frontend UI         | Flutter                     |
+| Authentication      | Firebase Auth               |
+| Database            | Firebase Firestore          |
+| File Storage        | Firebase Storage            |
+| Notifications       | Flutter Local Notifications |
+| Version Control     | Git & GitHub                |
+
+---
+
 
 ## 🎯 Features
 
